@@ -1,0 +1,6 @@
+{
+    "mainPage" : "https://www.onliner.by/",
+    "cartPage": "https://cart.onliner.by/",
+    "addProduct": "https://catalog.onliner.by/sdapi/cart.api/positions", 
+    "deleteProduct":"https://cart.onliner.by/sdapi/cart.api/positions"
+}

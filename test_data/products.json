@@ -1,0 +1,8 @@
+{
+    "addIPhone": {
+        "position_id":"1689:839341", "shop_id":1689, "product_id":2049323
+    },
+    "deleteIPhone": {
+        "position_id":"707:4155257001","product_id":4155257,"product_key":"iphone15promaxnt","shop_id":707,"quantity":1
+    }
+}
